@@ -63,12 +63,12 @@
   left: -3px;
 }
 
-/*.checkbox-fun__label::after {
+.checkbox-fun__label::after {
   right: -16px;
   top: -3px;
 }
 
-.checkbox-fun__content::before, .checkbox-fun__content::after {
+/*.checkbox-fun__content::before, .checkbox-fun__content::after {
   background: #ff1493;
 }
 
