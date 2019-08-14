@@ -33,7 +33,7 @@
   z-index: 100;
 }
 
-/*.checkbox-fun__content {
+.checkbox-fun__content {
   opacity: 0;
   width: 20px;
   height: 20px;
@@ -44,7 +44,7 @@
   transition: opacity 0.4s ease-out, transform 0.6s cubic-bezier(0.4, -0.96, 0, 1.92);
 }
 
-.checkbox-fun__content::before, .checkbox-fun__content::after, .checkbox-fun__label::before, .checkbox-fun__label::after {
+/*.checkbox-fun__content::before, .checkbox-fun__content::after, .checkbox-fun__label::before, .checkbox-fun__label::after {
   width: 20px;
   height: 20px;
   border-radius: 50%;
