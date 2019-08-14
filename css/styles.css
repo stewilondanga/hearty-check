@@ -72,11 +72,11 @@
   background: #ff1493;
 }
 
-/*.checkbox-fun__content::before {
+.checkbox-fun__content::before {
   top: -12px;
 }
 
-.checkbox-fun__content::after {
+/*.checkbox-fun__content::after {
   right: -12px;
 }
 
