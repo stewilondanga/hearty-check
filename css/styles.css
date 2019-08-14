@@ -76,11 +76,11 @@
   top: -12px;
 }
 
-/*.checkbox-fun__content::after {
+.checkbox-fun__content::after {
   right: -12px;
 }
 
-.checkbox-fun__box {
+/*.checkbox-fun__box {
   position: absolute;
   top: 0;
   left: 0;
