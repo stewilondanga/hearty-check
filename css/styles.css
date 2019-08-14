@@ -80,7 +80,7 @@
   right: -12px;
 }
 
-/*.checkbox-fun__box {
+.checkbox-fun__box {
   position: absolute;
   top: 0;
   left: 0;
@@ -89,7 +89,7 @@
   visibility: hidden;
 }
 
-.checkbox-fun__box:checked+.checkbox-fun__content {
+/*.checkbox-fun__box:checked+.checkbox-fun__content {
   opacity: 1;
   transform: scale(1);
 }
