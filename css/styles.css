@@ -89,12 +89,12 @@
   visibility: hidden;
 }
 
-/*.checkbox-fun__box:checked+.checkbox-fun__content {
+.checkbox-fun__box:checked+.checkbox-fun__content {
   opacity: 1;
   transform: scale(1);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
