@@ -21,7 +21,7 @@
   padding: 50px;
 }
 
-/*.checkbox-fun__label {
+.checkbox-fun__label {
   position: relative;
   background: #fff;
   width: 20px;
@@ -33,7 +33,7 @@
   z-index: 100;
 }
 
-.checkbox-fun__content {
+/*.checkbox-fun__content {
   opacity: 0;
   width: 20px;
   height: 20px;
